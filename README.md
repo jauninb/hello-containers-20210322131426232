@@ -1,2 +1,2 @@
 Sample application packaged as a container
-Update in PR 2
+Update in PR 3
